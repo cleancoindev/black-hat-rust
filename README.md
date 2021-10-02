@@ -10,7 +10,7 @@
 ***
 *** fork note:  I only fork blackhat software in order to study it for defensive purposes to understand how i will be attacked for cybersecurity research purposes.  Do not copy any form of activity you see in this.  "Don't try this at home folks".  It can lead to jail time and worse.  Stay away from blackhat behaviors. :)
 
-That said: if you seek to learn only and not mimic any attacks on other systems, only your own for research purposes, please do not read any further.
+That said: if you seek to learn only and not mimic any attacks on other systems, only your own for research purposes, please do read any further.
 
 Read on if you are only reading this for research purposes only.  Thanks!
 ------------------------------------------------------------------------------
