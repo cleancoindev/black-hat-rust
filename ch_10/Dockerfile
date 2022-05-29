@@ -12,7 +12,7 @@ RUN cargo build -p server --release
 ####################################################################################################
 ## Final image
 ####################################################################################################
-FROM debian:buster-slim
+FROM debian:10.12-slim
 
 # Create unprivileged user
 ENV USER=ch_10
